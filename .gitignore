@@ -1,0 +1,11 @@
+## UE Generated files ##
+*/Intermediate/
+*/Build
+*/Saved
+*/DerivedDataCache
+*/Binaries
+*_BuiltData.uasset
+BuildingEscape/Content/StarterContent/
+
+## VS Generated files ##
+*.VC*
